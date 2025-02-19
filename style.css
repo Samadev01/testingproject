@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#archive{
+    font-size: 90px;
+    color: red;
+    background-color: black;
+    padding: 10px 20px;
+    padding-bottom: 20px;
+    margin: 100px;
+    border-radius: 10px;
+}
